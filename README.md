@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 📫 How to reach me **ankithabm1924@gmail.com**
+- 📫 How to reach me **ankithabm1927@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
