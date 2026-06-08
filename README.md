@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankitha BM</h1>
-<h3 align="center">Data Science & AI Enthusiast | ML · NLP · Computer Vision</h3>
+<h3 align="center">Data Science & AI Enthusiast | ML · NLP </h3>
 
 - 🔭 I’m currently working on **AI Enabled adapative questioning for crime investigation support**
 
